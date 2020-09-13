@@ -1,0 +1,3 @@
+APACHE2 service is not running - Tested on 13/09/2020, 11:52. Restarting now.... 
+MYSQL service is running - Tested on 13/09/2020, 11:52.
+POSTGRESQL service is running - Tested on 13/09/2020, 11:52.
